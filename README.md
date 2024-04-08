@@ -1,1 +1,13 @@
-# Nanmuthalvan_edunet
+# NANMUDHALVAN_TUESDAYBATCH_PROJECT_FILES
+
+PROJECT CREATED BY : PARTHIBAN.D (Id:au513521104033)
+
+
+
+LOGIN DETAILS:
+
+
+UNAME: admin
+
+
+Password:admin
